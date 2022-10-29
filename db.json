@@ -1,5 +1,5 @@
 {
-  "pahlawan": {
+  "pahlawan": 
      [
     {
       "id": 1,
@@ -72,5 +72,5 @@
       "urlWiki": "https://id.wikipedia.org/wiki/Tan_Malaka"
     }
   ]
-  }
+  
 }
