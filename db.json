@@ -1,5 +1,6 @@
 {
-  "pahlawan": [
+  "pahlawan": {
+     [
     {
       "id": 1,
       "name": "Ahmad Dahlan",
@@ -71,4 +72,5 @@
       "urlWiki": "https://id.wikipedia.org/wiki/Tan_Malaka"
     }
   ]
+  }
 }
